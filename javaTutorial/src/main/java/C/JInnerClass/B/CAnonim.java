@@ -1,4 +1,4 @@
-package C.JInnerClass;
+package C.JInnerClass.B;
 
 
 public class CAnonim {
